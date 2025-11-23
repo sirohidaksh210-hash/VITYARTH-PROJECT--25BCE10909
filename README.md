@@ -1,3 +1,5 @@
+VITYARTHI PROJECT
+
 ● Project Title:
 A python code to create strong, randomized passwords using letters, numbers, and symbols.
 
